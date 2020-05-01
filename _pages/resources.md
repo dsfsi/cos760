@@ -37,6 +37,9 @@ These are resources from the class.
 * [OffensEval: Identifying and Categorizing Offensive Language in Social Media](https://competitions.codalab.org/competitions/20011)
 * [HateSpeech](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
 
+
+### Repositories
+* [Wluper Dataset Downloads](https://data.wluper.com/)
 ### Wildcard
 * [Real411](https://www.real411.org/complaints)
 
