@@ -18,6 +18,11 @@ For this class, a number of readings are used to reinforce concepts or encourage
 
 ## Papers
 
+* EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks - [arxiv](https://arxiv.org/abs/1901.11196)
+* GoodNewsEveryone: A Corpus of News Headlines Annotated with Emotions, Semantic Roles, and Reader Perception - [arxiv](https://arxiv.org/abs/1912.03184)
+* Breaking the News: First Impressions Matter on Online New - [arxiv](https://arxiv.org/pdf/1503.07921.pdf)
+* Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science [aclweb](https://www.aclweb.org/anthology/Q18-1041.pdf)
+* Predicting Sentiments and Aspects on Financial Tweets and News Headlines - [acm](https://dl.acm.org/doi/pdf/10.1145/3184558.3191828)
 * Fake News Detection on Social Media: A Data Mining Perspective [arxiv](https://arxiv.org/pdf/1708.01967.pdf)
 * Hate Speech Detection: A Solved Problem? The Challenging Case of Long Tail on Twitter [arxiv](https://arxiv.org/pdf/1803.03662.pdf)
 * Automatic Detection of Cyberbullying in Social Media Text [arxiv](https://arxiv.org/pdf/1801.05617.pdf)
