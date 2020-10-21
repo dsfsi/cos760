@@ -20,6 +20,13 @@ These are resources from the class.
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 * Developing Language Annotation for Machine Learning Algorithms - Marie Meteer [URL](https://www.cs.brandeis.edu/~cs140b/CS140b_slides/NLAML_CS140b-2015.pdf)
 
+## Tools
+
+* FastAI NLP [URL](https://nlp.fast.ai/)
+* NLP with sklearn [URL](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+* Huggingface [URL](https://huggingface.co/)
+* NLP for hackers [URL](https://nlpforhackers.io/)
+
 ## DataSets
 
 ### COVID-19
@@ -45,7 +52,6 @@ These are resources from the class.
 
 ### Repositories
 * [Wluper Dataset Downloads](https://data.wluper.com/)
-
 
 ### Wildcard
 * [Real411](https://www.real411.org/complaints)
