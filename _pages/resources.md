@@ -6,14 +6,13 @@ permalink: /resources/
 These are resources from the class.
 
 
-## Slides
+## Slides [Updated for 2020]
 
-*Note*: Slides are provided under [Creative Commons 4.0 Share-Alike](https://creativecommons.org/licenses/by-sa/4.0/). You are encouraged to make comments on the slides so that they can be improved.
+*Note*: Slides are provided under [Creative Commons 4.0 Share-Alike Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are encouraged to make comments on the slides so that they can be improved.
 
-* Dark Text Arts? [[PDF](https://github.com/dsfsi/cos802/raw/master/_pages/Dark-Text-Arts.pdf)]] [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1ParrQZ9BNocD4Jy7SGHOoAxXua8gHxc3zKmnsyqoEFs/edit?usp=sharing)]
-* Quick Introduction to Natural Language [[PDF](https://github.com/dsfsi/cos802/raw/master/_pages/NLP-Quick-Intro.pdf)]] [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1eG_JgbdhJQvshfG1fSQ0ZFItVw_RDpm4HDfXSqYcJKI/edit?usp=sharing)]
-* Word Embeddings + Language Models
-[[PDF](https://github.com/dsfsi/cos802/raw/master/_pages/NLP-Embeddings-Language-Models.pdf)]] [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1nKtj1UX5fllo0LW6_jH3lahWoJV_ERt97RgAPJ-pkuI/edit?usp=sharing)]
+* Introduction to NLP for Data Scientists [[Google Drive - Comments Open](https://docs.google.com/presentation/d/17n5bc4jHtrJoqQK01Bu7yE8bLdVvA6d5Wg5NRIeIwzo/edit?usp=sharing)]
+* Modern NLP Approaches [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1O4xyKBxQ6G73NGeqixzYqsNdb6wmOgTCoZvMv5Au9Ko/edit?usp=sharing)]
+* Data Science + NLP Use-Cases [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1Ks73seKiNeIGsQ95RrhYR4nkHghhh3xcJaGT-pN_ZLY/edit?usp=sharing)]
 
 ## Presentations/Readings from other Researchers
 
@@ -21,8 +20,15 @@ These are resources from the class.
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 * Developing Language Annotation for Machine Learning Algorithms - Marie Meteer [URL](https://www.cs.brandeis.edu/~cs140b/CS140b_slides/NLAML_CS140b-2015.pdf)
 
-
 ## DataSets
+
+### COVID-19
+
+* [AYLIEN COVID-19 News Dataset](https://blog.aylien.com/free-coronavirus-news-dataset/)
+
+### Local Language NLP Tasks
+
+* [Masakhane African Machine Translation](https://www.masakhane.io/)
 
 ### Misinformation/Disinformation
 
@@ -37,9 +43,10 @@ These are resources from the class.
 * [OffensEval: Identifying and Categorizing Offensive Language in Social Media](https://competitions.codalab.org/competitions/20011)
 * [HateSpeech](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
 
-
 ### Repositories
 * [Wluper Dataset Downloads](https://data.wluper.com/)
+
+
 ### Wildcard
 * [Real411](https://www.real411.org/complaints)
 
