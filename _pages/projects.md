@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Student Projects
 
-### 2020
+### 2021
 You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a_Jn3AO8sAmVjE3SQv6vtcQ)]
 
 * Evaluating NLP techniques for extracting job ads on Twitter **Ndamulelo Nemakhavhani**
