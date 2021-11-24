@@ -5,6 +5,24 @@ permalink: /projects/
 ---
 
 ## Student Projects
+
+### 2020
+You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a_Jn3AO8sAmVjE3SQv6vtcQ)]
+
+* Evaluating NLP techniques for extracting job ads on Twitter **Ndamulelo Nemakhavhani**
+* Unsupervised cross-lingual word embedding representation for English-isiZulu **Derwin Ngomane**
+* Classification for Setswana News **Matimba Shingange**
+* Semi-supervised learning approaches for predicting South African political sentiment for the local government elections **Mashadi Ledwaba**
+* COVID-19 Economic Impact Analysis: A Topic Modelling Approach **Erika Scholtz**
+* A comparison of classification algorithms for identifying fake news **Katlego Mongoai**
+* Comparison of medicinal use on covid-19 recoveries using machine learning **Ntsika Faku**
+* An ensemble classification of Covid-19 Fake News from Social Media **Nelson Phora**
+* Interpretable ML on Fake News detection **Tinashe Chinyati**
+* Exploring different visualisations for comparing NLP approaches **Michiel van Staden**
+* Trilogy Topic Modelling applied to Aylien COVID-19 dataset **Shaun Johnson**
+* Efficient Transformers for Hate Speech Detection **Jesse Parvess**
+* Online Abuse analysis with Election Twitter Data **Christiaan Klopper**
+
 ### 2020
 * Classification of Hate Speech and offensive language on twitter texts **Andani Madodonga**
 * Fake News Detection: Performance Analysis of Word to Vectorizing Approaches in Conjunction with Machine Learning Approaches **Abhay Lal**
