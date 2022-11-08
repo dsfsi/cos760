@@ -18,11 +18,33 @@ For this class, a number of readings are used to reinforce concepts or encourage
 
 ## Papers
 
+### 2022
+* On the Impact of Data Augmentation on Downstream Performance in Natural Language Processing - [acl](https://aclanthology.org/2022.insights-1.12)
+* Sentiment Classification in Swahili Language Using Multilingual BERT - [arxiv](https://arxiv.org/abs/2104.09006)
+* Learning Contextualised Cross-lingual Word Embeddings for Extremely Low-Resource Languages Using Parallel Corpora - [arxiv](https://arxiv.org/abs/2010.14649)
+* Massive vs. Curated Embeddings for Low-Resourced Languages: the Case of Yoruba and Twi - [arxiv](https://arxiv.org/abs/1912.02481)
+* MasakhaNER: Named Entity Recognition for African Languages - [arxiv](https://arxiv.org/abs/2103.11811)
+* Small Data? No Problem! Exploring the Viability of Pretrained Multilingual Language Models for Low-resourced Languages - [acl](https://aclanthology.org/2022.insights-1.12/)
+* A New Corpus for Low-Resourced Sindhi Language with Word Embeddings - [arxiv](https://arxiv.org/abs/1911.12579) 
+
+### 2021
+
+* Sentiment Classification in Swahili Language Using Multilingual BERT - [arxiv](https://arxiv.org/abs/2104.09006)
+* Learning Contextualised Cross-lingual Word Embeddings for Extremely Low-Resource Languages Using Parallel Corpora - [arxiv](https://arxiv.org/abs/2010.14649)
+* Massive vs. Curated Embeddings for Low-Resourced Languages: the Case of Yoruba and Twi - [arxiv](https://arxiv.org/abs/1912.02481)
+Unlink the Link Between COVID-19 and 5G Networks: An NLP and SNA Based Approach - [ieee](https://ieeexplore.ieee.org/document/9262907)
+* MasakhaNER: Named Entity Recognition for African Languages - [arxiv](https://arxiv.org/abs/2103.11811)
+* Automatic Detection of Cyberbullying in Social Media Text [arxiv](https://arxiv.org/pdf/1801.05617.pdf)
+* Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science [acl](https://www.aclweb.org/anthology/Q18-1041.pdf)
+* A New Corpus for Low-Resourced Sindhi Language with Word Embeddings - [arxiv](https://arxiv.org/abs/1911.12579)
+
+
+### 2020
 * EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks - [arxiv](https://arxiv.org/abs/1901.11196)
 * GoodNewsEveryone: A Corpus of News Headlines Annotated with Emotions, Semantic Roles, and Reader Perception - [arxiv](https://arxiv.org/abs/1912.03184)
 * Breaking the News: First Impressions Matter on Online New - [arxiv](https://arxiv.org/pdf/1503.07921.pdf)
 * Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science [aclweb](https://www.aclweb.org/anthology/Q18-1041.pdf)
-* Predicting Sentiments and Aspects on Financial Tweets and News Headlines - [acm](https://dl.acm.org/doi/pdf/10.1145/3184558.3191828)
+* Predicting Sentiments and Aspects on Financial Tweets and News Headlines - [acl](https://dl.acm.org/doi/pdf/10.1145/3184558.3191828)
 * Fake News Detection on Social Media: A Data Mining Perspective [arxiv](https://arxiv.org/pdf/1708.01967.pdf)
 * Hate Speech Detection: A Solved Problem? The Challenging Case of Long Tail on Twitter [arxiv](https://arxiv.org/pdf/1803.03662.pdf)
 * Automatic Detection of Cyberbullying in Social Media Text [arxiv](https://arxiv.org/pdf/1801.05617.pdf)
