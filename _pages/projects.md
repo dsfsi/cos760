@@ -6,11 +6,27 @@ permalink: /projects/
 
 # Student Projects
 
+
+## 2023
+You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9Ea4AvS1oL_x9qjv2mvx9i)]
+
+* SABC News Corpus Classification using Machine Learning and Transformer.	**Abiola Akinbowale**
+* Identifying South African Infrastructure-related News Articles using CorEx Topic Modelling	**Adinda Behrens**
+* Standing on the shoulders of giants! Exploring the effectiveness of pre-trained language models on unseen low-resource languages	**Bayanda Kutshwa**
+* Exploring Patterns from the South African Police Service Tweets	**Mabel Mapuwei**
+* Topic Modelling of South African Government Speeches with LDA, NMF and BERTopic	**Murendi Rampai**
+* Exploring Public Sentiment and Themes in the Post Office Dataset	**Panashe Mabwe**
+* Extracting Atoms for the TshiVenda Language.	**Pandelani Nekhumbe**
+* Developing a Natural Language Processing-driven categorisation system for SABC news corpus	**Refiloe Kekana**
+* ANALYSING SOUTH AFRICAN POLICE TWEETS USING TOPIC MODELING TECHNIQUES 	**Reshay Mahepal**
+* Unsupervised Sentiment Analysis: A Deep Dive into Understanding Twitter Users Sentiment Towards the South African Post Office	**Sachin Modi**
+*  Bathong! Exploring South African slang in Twitter Discourse	**Thokozani Msezane**
+* 
 ## 2022
 You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a8iPzRQJujNfZ0w7qGX57vi)]
 
 * Assessing Impact of Tokenizing or Cleaning Emojis on a Sentiment Analysis Task for a Low Resource Language **Johann Pienaar**
-* Fine-grained multi-label classification of sexism using Natural Language Processing Techniques **Fiskani Banda **
+* Fine-grained multi-label classification of sexism using Natural Language Processing Techniques **Fiskani Banda**
 * Twitter Sentiment Analysis on JSE Related Tweets **Tsepang Polaki**
 * Multi-label Classification of Rap Lyrics **Matthew Grobler**
 * Word representation techniques on neural networks **Matthew Dickson**
