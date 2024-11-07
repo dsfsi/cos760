@@ -6,6 +6,24 @@ permalink: /projects/
 
 # Student Projects
 
+## 2024
+You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9fqQm0FIco10PDeEv2YWHh)]
+
+* Application of word embeddings in Isizulu to extracting discourse Atoms.	**Akhona Stafane**
+* Topic-based Emotion Classification of South African Post Office Tweets	**Carl du Plessis**
+* A Semantic Network Approach to Measuring Relatedness	**Emmanuel Tovurawa**
+* Improving South African Police Service (SAPS) Twitter crime reporting and public engagement using topic modelling	**Gift Silinda**
+* Analyzing South African cabinet speeches using LLMs **Juliet Rushambwe**
+* AfriNewsClassify: Multilingual News Topic Classification for African Languages	**Thakhani Madzivhandila**
+* Learning From Other Languages	**Michael du Plessis**
+* A comparative Study of LLMs with Similar Training Objectives Across Key NLP Tasks	**Mihle Senene**
+* Topic Classification for SABC News Corpus using Supervised Machine Learning Methods	**Mzwakhe Didishe**
+* SABC News Categorization/Classification	**Talifhani Nekhumbe**
+* Cross-lingual Transfer Learning for African News Categorisation: BERT and Traditional Model with Data Augmentation	**Omphemetse Tlakula**
+* Using Deep Learning Approaches for Sentiment Analysis on African Languages	**Realeboga Monare**
+* Exploring 'Bathong': A Decade of Cultural Expression on South African Social Media through Emoji, Sentiment, and Topic Analysis	**Reolin Govender**
+* Advanced NLP Modelling and Geolocation Analysis on SAPS Twitter Data	**Robert van Aswegen**
+* Topic Modeling of South African Post Office Twitter Data: Comparing Techniques to Identify Service Delivery Issues	**Tshifhiwa Mashaba**
 
 ## 2023
 You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9Ea4AvS1oL_x9qjv2mvx9i)]
@@ -20,8 +38,8 @@ You can view the project presentations online [[Youtube Playlist](https://www.yo
 * Developing a Natural Language Processing-driven categorisation system for SABC news corpus	**Refiloe Kekana**
 * ANALYSING SOUTH AFRICAN POLICE TWEETS USING TOPIC MODELING TECHNIQUES 	**Reshay Mahepal**
 * Unsupervised Sentiment Analysis: A Deep Dive into Understanding Twitter Users Sentiment Towards the South African Post Office	**Sachin Modi**
-*  Bathong! Exploring South African slang in Twitter Discourse	**Thokozani Msezane**
-* 
+* Bathong! Exploring South African slang in Twitter Discourse	**Thokozani Msezane**
+
 ## 2022
 You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a8iPzRQJujNfZ0w7qGX57vi)]
 
