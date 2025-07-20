@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Class Information
+# About COS 760 – Natural Language Processing for Data Scientists
 
-In this module students will develop Natural Language Processing techniques to be able to take on Data Science challenges. In the past we have looked at challenges in disinformation online, author deception and predators on chat platforms. In 2020 this will be expanded. This course utilises a challenge driven approach to learn about the state of the art of natural language processing. 
+COS 760 is an Honours-level course offered by the Department of Computer Science at the University of Pretoria. It equips students with foundational and advanced knowledge of Natural Language Processing (NLP), spanning classical statistical methods to contemporary deep learning and transformer-based approaches. The course covers key NLP tasks such as language modeling, sentiment analysis, machine translation, named entity recognition, and automatic speech recognition. Students engage with both theory and practice, applying techniques using Python and frameworks like PyTorch, TensorFlow, and Huggingface.
 
-## Outcomes
-
-Text is the most abundant and unstructured data that we have on the planet. Learning how to work and process text. This module will impart skills in dealing with text data, using machine learning models with text and how to develop state of the art approaches to tackle Data Science challenges. We will utilize industry and research standard NLP and ML frameworks to tackle this course.
-
+A distinguishing feature of COS 760 is its focus on contextually relevant NLP. Students are encouraged to center their projects around African languages and low-resource contexts, aligning with the broader goals of ethical, inclusive, and socially impactful AI. Through lectures, tutorials, continuous assessments, and a collaborative final project, the course fosters both technical rigor and thoughtful application in real-world settings—particularly in domains critical to African societies.
 
