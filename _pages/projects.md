@@ -4,114 +4,57 @@ title: Projects
 permalink: /projects/
 ---
 
-# Student Projects
+# Ethos of the Course Projects
 
-## 2024
-You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9fqQm0FIco10PDeEv2YWHh)]
+A key aim of the course is to build technical capacity while addressing the *contextual needs of South Africa and the continent*. Students are strongly encouraged to explore projects that include or are based on **African languages**, low-resource settings, and socially relevant themes. This focus not only contributes to the advancement of inclusive AI, but also helps students develop research that resonates locally while contributing globally. Projects are group-based and culminate in a video presentation and technical write-up. Below are the projects different year cohorts.
 
-* Application of word embeddings in Isizulu to extracting discourse Atoms.	**Akhona Stafane**
-* Topic-based Emotion Classification of South African Post Office Tweets	**Carl du Plessis**
-* A Semantic Network Approach to Measuring Relatedness	**Emmanuel Tovurawa**
-* Improving South African Police Service (SAPS) Twitter crime reporting and public engagement using topic modelling	**Gift Silinda**
-* Analyzing South African cabinet speeches using LLMs **Juliet Rushambwe**
-* AfriNewsClassify: Multilingual News Topic Classification for African Languages	**Thakhani Madzivhandila**
-* Learning From Other Languages	**Michael du Plessis**
-* A comparative Study of LLMs with Similar Training Objectives Across Key NLP Tasks	**Mihle Senene**
-* Topic Classification for SABC News Corpus using Supervised Machine Learning Methods	**Mzwakhe Didishe**
-* SABC News Categorization/Classification	**Talifhani Nekhumbe**
-* Cross-lingual Transfer Learning for African News Categorisation: BERT and Traditional Model with Data Augmentation	**Omphemetse Tlakula**
-* Using Deep Learning Approaches for Sentiment Analysis on African Languages	**Realeboga Monare**
-* Exploring 'Bathong': A Decade of Cultural Expression on South African Social Media through Emoji, Sentiment, and Topic Analysis	**Reolin Govender**
-* Advanced NLP Modelling and Geolocation Analysis on SAPS Twitter Data	**Robert van Aswegen**
-* Topic Modeling of South African Post Office Twitter Data: Comparing Techniques to Identify Service Delivery Issues	**Tshifhiwa Mashaba**
+## Student Projects
 
-## 2023
-You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9Ea4AvS1oL_x9qjv2mvx9i)]
+### 2025
 
-* SABC News Corpus Classification using Machine Learning and Transformer.	**Abiola Akinbowale**
-* Identifying South African Infrastructure-related News Articles using CorEx Topic Modelling	**Adinda Behrens**
-* Standing on the shoulders of giants! Exploring the effectiveness of pre-trained language models on unseen low-resource languages	**Bayanda Kutshwa**
-* Exploring Patterns from the South African Police Service Tweets	**Mabel Mapuwei**
-* Topic Modelling of South African Government Speeches with LDA, NMF and BERTopic	**Murendi Rampai**
-* Exploring Public Sentiment and Themes in the Post Office Dataset	**Panashe Mabwe**
-* Extracting Atoms for the TshiVenda Language.	**Pandelani Nekhumbe**
-* Developing a Natural Language Processing-driven categorisation system for SABC news corpus	**Refiloe Kekana**
-* ANALYSING SOUTH AFRICAN POLICE TWEETS USING TOPIC MODELING TECHNIQUES 	**Reshay Mahepal**
-* Unsupervised Sentiment Analysis: A Deep Dive into Understanding Twitter Users Sentiment Towards the South African Post Office	**Sachin Modi**
-* Bathong! Exploring South African slang in Twitter Discourse	**Thokozani Msezane**
+<ul>
+  <li>ASR for Low Resource African Languages, <strong>Aidan Chapman, Graeme Blain, Matjere Matseba</strong></li>
+  <li>African Languages for Emotion Analysis using the BRIGHTER + EthioEmo Datasets, <strong>Yudi Govender, Dhinaz Rangasamy, Khwezi Ntsaluba</strong></li>
+  <li>Analysing Sentiments for Low-resource African Languages using Afrisenti and Sesotho News Headlines, <strong>Mihir Arjun, Troy Clark, Hamza Mokiwa</strong></li>
+  <li>Bridging Speech to Insight: Automatic Speech Recognition (ASR) Performance and Topic Modelling Effectiveness in IsiXhosa Language Resources., <strong>Pumlisa Lusiba, Mehluli Ngwenya, Pollen Budzwa</strong></li>
+  <li>Detecting Machine Generated Text in African Languages, <strong>Amanda Khuzwayo, Harmony T. Mupindu</strong></li>
+  <li>Detecting Machine Generated Texts in Afrikaans, <strong>Lloyd Creighton, Timothy Whitaker, Jaden Moodley</strong></li>
+  <li>Detecting Machine generated texts, <strong>Caden Dobson, Kenneth Collis, Sakhile Mthembu</strong></li>
+  <li>Detecting Machine-Generated Text in African Languages: A Binary Classification Study on isiZulu and isiXhosa, <strong>David Roodt, Tessa Engelbrecht, Catherina Ackerman</strong></li>
+  <li>Detecting Machine-Generated Texts, <strong>Shiza Butt, Vutomi Mohube, Lesedi Ntsele</strong></li>
+  <li>Emotion Analysis Using BRIGHTER + EthioEmo Datasets, <strong>Layla Olivier, Xander Coetzee</strong></li>
+  <li>Emotion Analysis in African Languages using Transfer Learning., <strong>Kabelo Motloung, Victor Igbojinna, Boreadi Mahlakwane</strong></li>
+  <li>Enhancing Automatic Speech Recognition (ASR) and Topic Modelling for Afrikaans using Direct Translation, <strong>Mervyn Ludick, Matt van Coller</strong></li>
+  <li>Enhancing Emotion Classification through Data Augmentation Strategies for Low-Resource African Languages, <strong>Caitlin Simon, Xadrian van Heerden, Mignon Erasmus</strong></li>
+  <li>Enhancing Sentiment Analysis for Sesotho and Zulu: A Comparative Study of Zero-Shot Learning, Transfer Learning and Data Augmentation, <strong>Onthatile Setidisho, Bongani Ncube, Kamohelo Makaaka</strong></li>
+  <li>Evaluating Cross-Lingual Semantic Relatedness in African Languages using Transfer Learning and Explanatory Techniques, <strong>Nevin Thomas, Kago Motlhabane, Jaimen Govender</strong></li>
+  <li>Evaluating Machine Translation For Sepedi and isiZulu in South Africa, <strong>Rethakgetse Manaka, Kamogelo Moeketse, Kelebogile Masemola</strong></li>
+  <li>Evaluating Subword-Aware Neural Models Trained on Artificial Data for Educational Feedback in Setswana, <strong>Charl Pieter Pretorius, Julian Pienaar, Dylan Kapnias</strong></li>
+  <li>Evaluating Transfer Learning for Multilabel Emotion Classification in Bantu Languages using AfriBERTa and XLM-R, <strong>Charlize Hanekom, Jayson du Toit, Nonkululeko Ntshele</strong></li>
+  <li>Evaluating the Impact of ASR Transcription Quality on Topic Modeling for Setswana, <strong>Nerina Borchard, Zion van Wyk, Rueben van der Westhuizen</strong></li>
+  <li>Exploring Semantic Relatedness in Hausa and Amharic Using Transfer Learning, <strong>Avkar Gopal, Sean Sampson, Obedience Muleya</strong></li>
+  <li>Leveraging transfer learning and data augmentation for multilabel emotion classification in African languages, <strong>Simphiwe Nonabe, Linda Masia, Sharika Kanti Narsing</strong></li>
+  <li>Lost in Transcription, <strong>Keith Homan, Donatello Carboni, Dawie Reyneke</strong></li>
+  <li>Machine Translation Evaluation Using The Corrected FLORES Datasets, <strong>Alec Watson, Aren Repko, Daniel Geerdink</strong></li>
+  <li>Machine Translation Evaluation Using the Corrected FLORES Datasets, <strong>Mishka Dukhanti, Aidan Govender, Lerato Letsepe</strong></li>
+  <li>Machine Translation Evaluation using Corrected FLORES, <strong>Ndumiso Zondi, Masana Glad Baloyi, Shiluvelo Makhubele</strong></li>
+  <li>Machine Translation Quality in African Languages Using the Corrected FLORES Evaluation Dataset, <strong>Katleho Moeti, Tshiamo Monametsi, Lebogang Ntlatleng</strong></li>
+  <li>Meta-learning and Transfer-learning based approaches for Semantic Relatedness, <strong>Tony Mogoa Ombaso, Magabe Victor Nkadimeng, Zingisa Matwana</strong></li>
+  <li>Neural Language Models with Subword Tokenization Awareness, <strong>Luke Bradford, Tawanda Jimu, Jesse Naidoo</strong></li>
+  <li>Neural Language Models with Subword Tokenization Awareness, <strong>GT (Given) Chauke, TL (Thando) Dlamini</strong></li>
+  <li>Neural Language Models with subword tokenization awareness, <strong>Khutso Mosomane, Alex Molokomme, Kleinboy Mthimunye</strong></li>
+  <li>Optimizing Cross-Lingual Embeddings for isiZulu, Sepedi, and Setswana, <strong>Pule Nxasana, Andile Mabongo, Busisiwe Vemba</strong></li>
+  <li>Optimizing Topic Modeling from Speech: Evaluating ASR and Topic Model Combinations for Setswana Podcasts, <strong>Ruan Carlinsky, Tinashe Austin, Unarine Netshifhefhe</strong></li>
+  <li>Optimizing cross-lingual embeddings for isiZulu, Sepedi, Setswana, <strong>Gerrit Jacobus Potgieter, Mihail Dicoski, Henrich Niebuhr</strong></li>
+  <li>Rewriting the Narrative: Evaluating Machine Translation in African Languages, <strong>Bukhosi Eugene Mpande, Itumeleng Joyce Moshokoa, Ennis Mathenda Maphasha</strong></li>
+  <li>SENTIMENT ANALYSIS USING AFRISENTI DATASET: A COMPARATIVE STUDY OF MULTILINGUAL MODELS FOR LOW-RESOURCE AFRICAN LANGUAGES, <strong>Jano Esterhuizen, Fhulufhelo Tshivhula, Niel Nortier</strong></li>
+  <li>SUBWORD-AWARE NEURAL CLASSIFICATION OF SENTIMENT FOR THE SESOTHO LANGUAGE., <strong>Nokubonga Cele, Innocentia Ledimo, Khotso Bore</strong></li>
+  <li>Semantic Relatedness for isiZulu using Transfer Learning, <strong>Mosa Sethosa</strong></li>
+  <li>Sentiment Analysis Using AfriSenti Datasets, <strong>Tristan Potgieter, Caelan Hill, Kivashin Naidoo</strong></li>
+  <li>Sentiment Analysis for Low-Resource African Languages, <strong>Selloane Chalale, Mulisa Thovhale, Khathophiwe Nemutudi</strong></li>
+  <li>Sentiment Analysis of Low-Resource African Languages Using Subword-Aware Neural Models, <strong>Simon Adriaan Swart, Ruan van der Walt, Daniel Pierre de Villiers</strong></li>
+  <li>Sequential Language-Adaptive Pretraining for Cross-Lingual Sentiment Analysis in Low-Resource African Languages, <strong>James Fitzsimons, Cara du Preez, Linus Ungerer</strong></li>
+  <li>To what extent can LLMs replicate human judgements of semantic relatedness in Afrikaans, <strong>Christiaan Wilhelm van Wyk, Marcel le Roux, Stefan Tolken</strong></li>
+  <li>Transfer Learning for Emotion Analysis in Bantu Languages, <strong>Charlize Hanekom, Jayson du Toit, Nonkululeko Ntshele</strong></li>
+</ul>
 
-## 2022
-You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a8iPzRQJujNfZ0w7qGX57vi)]
-
-* Assessing Impact of Tokenizing or Cleaning Emojis on a Sentiment Analysis Task for a Low Resource Language **Johann Pienaar**
-* Fine-grained multi-label classification of sexism using Natural Language Processing Techniques **Fiskani Banda**
-* Twitter Sentiment Analysis on JSE Related Tweets **Tsepang Polaki**
-* Multi-label Classification of Rap Lyrics **Matthew Grobler**
-* Word representation techniques on neural networks **Matthew Dickson**
-* South African mines host community sentiment analysis using a twitter API. **Matome Ledwaba**
-* Sentiment Analysis in Bitcoin **Lister Kom**
-* Impact of word embedding techniques on the classification of fake news **Sylvester Mothapo**
-* Emotionally driven fake news in South Africa **Marc Gagiano**
-* Social media sentiment analysis and topic modelling for the South African insurance companies **Penelope Matloga**
-* E-Commerce Text Classification **Tyler Ramnath**
-* Detection of Fake Online Job Posts **Nandi Mnguni**
-* Sentiment analysis regarding access to free healthcare by immigrants in South Africa **Godwin Sichulu**
-* Investigating Sentiment Analysis Approaches for Low-Resource Languages **Victor Dippenaar**
-* A Comparison of Popular Word Embedding Techniques for Hyperpartisan News Detection with a small dataset **Stephan Kersop**
-* Fake news classification: exploring misclassification by topic **Arno Preez**
-* Aspect-based Sentiment Analysis:  Aspect Limiting and Performance **Kris Hamersma**
-* Topical Hate Speech Detection in Multilingual Datasets using  State-of-the-Art Transformer Language Models **Trishanta Srikissoon**
-* The Ukriane War according to Twitter - GSDMM Topic extraction on Tweets regarding the war **Neacail Hilhorst**
-* Fake News Detection in  a South African Context - using modern NLP Transformers **Joshua Da Silva**
-* Use of NLP Techniques to assess life insurance claims **Xolile OReilly**
-* Sentiment Analysis on an African Language **Kapei Sebesho**
-
-
-## 2021
-You can view the project presentations online [[Youtube Playlist](https://www.youtube.com/playlist?list=PLSQgWNK_M4a_Jn3AO8sAmVjE3SQv6vtcQ)]
-
-* Evaluating NLP techniques for extracting job ads on Twitter **Ndamulelo Nemakhavhani**
-* Unsupervised cross-lingual word embedding representation for English-isiZulu **Derwin Ngomane**
-* Classification for Setswana News **Matimba Shingange**
-* Semi-supervised learning approaches for predicting South African political sentiment for the local government elections **Mashadi Ledwaba**
-* COVID-19 Economic Impact Analysis: A Topic Modelling Approach **Erika Scholtz**
-* A comparison of classification algorithms for identifying fake news **Katlego Mongoai**
-* Comparison of medicinal use on covid-19 recoveries using machine learning **Ntsika Faku**
-* An ensemble classification of Covid-19 Fake News from Social Media **Nelson Phora**
-* Interpretable ML on Fake News detection **Tinashe Chinyati**
-* Exploring different visualisations for comparing NLP approaches **Michiel van Staden**
-* Trilogy Topic Modelling applied to Aylien COVID-19 dataset **Shaun Johnson**
-* Efficient Transformers for Hate Speech Detection **Jesse Parvess**
-* Online Abuse analysis with Election Twitter Data **Christiaan Klopper**
-
-## 2020
-* Classification of Hate Speech and offensive language on twitter texts **Andani Madodonga**
-* Fake News Detection: Performance Analysis of Word to Vectorizing Approaches in Conjunction with Machine Learning Approaches **Abhay Lal**
-* Investigating text properties of fake news misclassified by state-of-the-art model BERT **Hermann Ulrich Tapamo**
-* Diversity in South African COVID-19 News **Isak Daniel Ungerer**
-* Unreliable News Detection using Machine Learning **Mohlatlego Nakeng**
-* Hyperpartisan News Detection using Transfer Learning **Njabulo Mncwabe**
-* Exploratory analysis of COVID-19 government tweets for time series approach on topic modeling in South Africa (SA) **Nozuko Twala**
-* Analysing the Effect of Text Augmentation Techniques on a South African Fake News Text Classification Task **Pieter van der Walt**
-* Fake news detection **Sakhiwo Mtwenka**
-* Lockdown Sentiment Analysis **Semaka Malapane**
-* Public Sentiment Evolution and Infection Spread during Covid-19 in South Africa – A Social Media Study **Shalom Kgofelo**
-* Fake News Detection Using Classification Models – a Model Comparison Study **Siyabonga Mbonambi**
-* Comparative Study on BERT, LTSM and Naive Bayes in Predicting Fake News **Yolanda Nkalashe**
-
-## 2019
-* Fake News Detection using Machine Learning Techniques **Abel Mnyakeni**
-* A well-read machine? Towards a supervised NLP Transfer Learning Architecture **Andreas Bayer**
-* Using transfer learning to predict disinformation **Carel Nchachi**
-* Explainable hyper-partisan news detection using NLP: an investigation **Frederik Pretorius**
-* Investigating Attention based CNN for Fake news detection **Henk Kotze**
-* Stance Detection Using Natural Language Processing **Hlompho Lekaka**
-* On Fake News Detection: Stance detection **Khutso Sepuru**
-* Can NLP detection of disinformation in company annual reports be an indicator of risk? **Lamont Theron**
-* The Experimental Evaluation of Machine Learning Classifiers to Perform News Reliability Verification **Lehan Lötter**
-* To Identify Optimal Multi-Class Machine Learning Algorithm for Hate Speech Detection on Twitter **Linae Munsamy**
-* Topic analysis and feature optimisation to predict the likelihood of disinformation **Michelle Terblanche**
-* Reduce Bias In Hate Speech Detection **Palesa Lepamo**
-* Deceptive Opinions - Fake Amazon Reviews **Retshidisitswe Lehata**
-* Hate Speech Classification and Training Extension to Emails **Riaal Domingues**
-* That's fake news!! **Semaka Malapane**
