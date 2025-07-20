@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: The Text Arts - NLP approaches to Data Science
+name: COS760 Natural Language Processing - Honours Level Course - University of Pretoria
 
 # Name of the author
-author: Vukosi Marivate
+author: DSFSI@University of Pretoria
 
 # Short bio or description (displayed in the header)
 description: Taught for the University of Pretoria Masters in IT (MIT) - Big Data Science
@@ -24,7 +24,7 @@ footer-links:
   email: vukosi.marivarte@cs.up.ac.za
   facebook:
   flickr:
-  github: dsfsi/cos802
+  github: dsfsi/cos760
   instagram:
   linkedin: https://linkedin.com/company/dsfsi
   pinterest:
