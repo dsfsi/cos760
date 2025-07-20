@@ -5,60 +5,17 @@ permalink: /resources/
 ---
 These are resources from the class.
 
-
-## Slides [Updated for 2020]
+## Selected Slides [Updated for 2025]
 
 *Note*: Slides are provided under [Creative Commons 4.0 Share-Alike Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are encouraged to make comments on the slides so that they can be improved.
 
-* Introduction to NLP for Data Scientists [[Google Drive - Comments Open](https://docs.google.com/presentation/d/17n5bc4jHtrJoqQK01Bu7yE8bLdVvA6d5Wg5NRIeIwzo/edit?usp=sharing)]
-* Modern NLP Approaches [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1O4xyKBxQ6G73NGeqixzYqsNdb6wmOgTCoZvMv5Au9Ko/edit?usp=sharing)]
-* Data Science + NLP Use-Cases [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1Ks73seKiNeIGsQ95RrhYR4nkHghhh3xcJaGT-pN_ZLY/edit?usp=sharing)]
+* Introduction to NLP [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1zjFf2pZJKdPjBU8qP-sze5QpR69AnHwGLyiAKdBMVxc/edit?usp=sharing)]
+* Language Modeling and N-Grams [[Google Drive - Comments Open](https://drive.google.com/file/d/10UcJX9Arm2oquiTgoB_-U3rEEAN_n2V-/view?usp=sharing)]
+* Vector Semantics & Embedding [[Google Drive - Comments Open](https://drive.google.com/file/d/1xhmHprUB-B8WDJOjL3jtUmu7y5vdq5ki/view?usp=sharing)]
+* Embeddings [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1pDY_w5IpLRBwF9FY03NkenyvjR0U_KQVb3x8dzsV-7g/edit?usp=sharing)]
+* Naive Bayes & Logistic Regression (Text classification & Sentiment) [[Google Drive - Comments Open](https://drive.google.com/file/d/166x84ULEB5_gbCb2bh9rBhgLTCkHDFxy/view?usp=sharing)]
+* Neural Networks and Sequential Models [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1uS8fmIRAX8uFE2yS391rXpbygm-HLPmDzo6yNz5GcUE/edit?usp=sharing)]
+* Transformers and Masked Langauge Modelling [[Google Drive - Comments Open](https://drive.google.com/file/d/1Rixt6-UNjhflkeY8UIzsVtNNLifiemhV/view?usp=sharing)]
+* Improving Local Language NLP @ DSFSI [[Google Drive - Comments Open](https://docs.google.com/presentation/d/1Y8rJ8yws4J9X9HMbgHzc0pbxryaU3nc8yvmPgF8xiKw/edit?usp=sharing)]
 
-## Presentations/Readings from other Researchers
-
-* “How to do good research, get it published in SIGKDD and get it cited!”, Eamonn Keogh,  SIGKDD 2009 Tutorial. [URL](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
-* Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
-* Developing Language Annotation for Machine Learning Algorithms - Marie Meteer [URL](https://www.cs.brandeis.edu/~cs140b/CS140b_slides/NLAML_CS140b-2015.pdf)
-
-## Tools
-
-* FastAI NLP [URL](https://nlp.fast.ai/)
-* NLP with sklearn [URL](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
-* Huggingface [URL](https://huggingface.co/)
-* NLP for hackers [URL](https://nlpforhackers.io/)
-
-## DataSets
-
-### COVID-19
-
-* [AYLIEN COVID-19 News Dataset](https://blog.aylien.com/free-coronavirus-news-dataset/)
-
-### Local Language NLP Tasks
-
-* [Masakhane African Machine Translation](https://www.masakhane.io/)
-
-### Misinformation/Disinformation
-
-* [Credibility Corpus with several datasets (Twitter, Web database) in French and English](https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english/)
-* [Fake News Challenge](https://github.com/FakeNewsChallenge/fnc-1)
-* [Fake News](https://www.kaggle.com/c/fake-news/data)
-* [Hyperpartisan News Detection](https://pan.webis.de/semeval19/semeval19-web/)
-* [RumourEval](https://competitions.codalab.org/competitions/19938)
-
-### Hate Speech
-* [Multilingual detection of hate speech against immigrants and women in Twitter (hatEval)](https://competitions.codalab.org/competitions/19935#learn_the_details)
-* [OffensEval: Identifying and Categorizing Offensive Language in Social Media](https://competitions.codalab.org/competitions/20011)
-* [HateSpeech](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
-
-### Repositories
-* [Wluper Dataset Downloads](https://data.wluper.com/)
-
-### Wildcard
-* [Real411](https://www.real411.org/complaints)
-
-## Other Classes/Courses
-
-* Natural Language Processing with Deep Learning <> C Manning - [URL](http://web.stanford.edu/class/cs224n/)
-* Ethical NLP <> E Bender [URL](https://faculty.washington.edu/ebender/2017_575/)
-* Computational Ethics for NLP <> Y Tsvetkov, AW Black [URL](http://demo.clab.cs.cmu.edu/ethical_nlp2019/)
-* Advanced Computational Linguistics <> G Hirst [URL](http://www.cs.toronto.edu/~gh/2528/)
+**Acknowledgements:** We are thankful to guest lecturers Dr Tsholofelo Mogale, Dr Idris Abdulmumin, Dr Kayode Olaleye and teaching assistant Fiskani Banda. 
